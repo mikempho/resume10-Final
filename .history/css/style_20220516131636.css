@@ -1,0 +1,10 @@
+/* Universal */
+
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar-toggler-icon {
+    background-image: url(https://www.bing.com/images/blob?bcid=RDUKkiQpdi0EqxcxoNWLuD9SqbotqVTdPxc);
+}

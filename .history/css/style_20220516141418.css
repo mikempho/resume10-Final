@@ -1,0 +1,51 @@
+/* Universal */
+
+body {
+    margin: 0;
+    box-sizing: border-box;
+    color: #494F56;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+p {
+    font-size: 19px;    
+}
+
+span {
+    color: #DBDD80;
+}
+/* header section*/
+.header {
+    text-align: center;
+    background-color: #EBEBEB;
+}
+
+/* navbar */
+
+.bg-light {
+    background-color: #EBEBEB;
+}
+
+/* hero section */
+.hero {
+    padding: 10% 2%;
+}
+
+.icon-box {
+    margin: 10% 0;
+}
+
+.header i {
+    font-size: 20px;
+    margin: 2px 10px;
+    color: #231F20;
+}
+
+.hero-section-img img {
+    width: 250px;
+}
+
+

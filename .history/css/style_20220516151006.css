@@ -1,0 +1,67 @@
+/* Universal */
+
+body {
+    margin: 0;
+    box-sizing: border-box;
+    color: #494F56;
+    font-family: 'Paytone One', sans-serif;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h6 {
+    font-size: 13px;
+    font-family: 'PT Sans', sans-serif;   
+    font-weight: bold;
+}
+
+p {
+    font-size: 1rem;
+    font-family: 'PT Sans', sans-serif;   
+}
+
+span {
+    color: #DBDD80;
+}
+
+a i:hover {
+    color: #DBDD80;
+    transition:0.6s;
+    transform: translateY(-10px)
+}
+
+/* header section*/
+.header {
+    text-align: center;
+    background-color: #EBEBEB;
+}
+
+/* navbar */
+.nav-names {
+    text-transform: uppercase;
+    margin: 5px 0;
+}
+
+/* hero section */
+.hero {
+    padding: 20% 2%;
+}
+
+.icon-box {
+    margin: 10% 0;
+}
+
+.header i {
+    font-size: 21px;
+    margin: 5px 8px;
+    color: #231F20;
+    transition:1s;
+}
+
+.hero-section-img img {
+    width: 250px;
+}
+
+

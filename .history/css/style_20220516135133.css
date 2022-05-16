@@ -1,0 +1,16 @@
+/* Universal */
+
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+/* header section*/
+/* hero section */
+.hero {
+    padding: 10% 2%;
+}

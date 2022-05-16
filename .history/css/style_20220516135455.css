@@ -1,0 +1,16 @@
+/* Universal */
+
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* header section*/
+.header {
+    text-align: center;
+}
+/* hero section */
+.hero {
+    padding: 20% 2%;
+}
+

@@ -1,0 +1,10 @@
+/* Universal */
+
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url("https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-bell-512.png");
+}
