@@ -101,17 +101,5 @@ a i:hover {
 }
 
 .social-icons {
-    margin: 10% 0 8% 0;
-}
-
-.contact-info {
-    text-align: left;
-    margin-left:5% ;
-}
-
-.social-icons i {
-    font-size: 26px;
-    margin: 5px 8px;
-    color: #231F20;
-    transition:1s;
+    margin: 10%;
 }

@@ -101,7 +101,7 @@ a i:hover {
 }
 
 .social-icons {
-    margin: 10% 0 8% 0;
+    margin: 10% 0 5% 0;
 }
 
 .contact-info {
@@ -110,7 +110,7 @@ a i:hover {
 }
 
 .social-icons i {
-    font-size: 26px;
+    font-size: 21px;
     margin: 5px 8px;
     color: #231F20;
     transition:1s;

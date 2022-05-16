@@ -94,24 +94,8 @@ a i:hover {
     color: #F7F7F9;
 }
 
-/* contact-section */
-.contact-section {
-    text-align: center;
-    padding: 20% 2%;
-}
-
-.social-icons {
-    margin: 10% 0 8% 0;
-}
-
-.contact-info {
-    text-align: left;
-    margin-left:5% ;
-}
-
-.social-icons i {
-    font-size: 26px;
-    margin: 5px 8px;
-    color: #231F20;
-    transition:1s;
+.arrow-icon {
+    width: 8%;
+    position: sticky;
+    margin-left: 350px;
 }
