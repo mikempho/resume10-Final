@@ -78,8 +78,7 @@ a i:hover {
     width: 100px;
     padding: 15px;
 }
-
-.skill-stacks-tools .sub-heading{
+.skill-stacks-tools h6{
     text-align: center;
     text-transform: capitalize;
     padding: 20px;

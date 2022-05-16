@@ -65,24 +65,9 @@ a i:hover {
 }
 
 /* skill-stacks-tools */
-.skill-stacks-tools {
-    background-color: #EBEBEB;
- 
-}
 
-.carousel-item{
-    text-align: center;   
-}
-
-.carousel-item img {
-    width: 100px;
-    padding: 15px;
-}
-
-.skill-stacks-tools .sub-heading{
+.skill-stacks-tools img{
     text-align: center;
-    text-transform: capitalize;
-    padding: 20px;
 }
 
 
