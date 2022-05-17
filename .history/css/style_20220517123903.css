@@ -127,10 +127,12 @@ a i:hover {
 
 .home img{
     width: 5%;
+    margin: 5px 8px;
+    color: #231F20;
     transition:1s;
     position: absolute;
-    right: 25px;
-    top: 30rem;
+    right: 20px;
+    top: 40rem;
     position: fixed;
 }
 

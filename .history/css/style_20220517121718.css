@@ -34,7 +34,7 @@ a i:hover {
 }
 
 /* header section*/
-#header {
+.header {
     background-color: #EBEBEB;
 }
 
@@ -53,7 +53,7 @@ a i:hover {
     margin: 15% 0;
 }
 
-#header i {
+.header i {
     font-size: 21px;
     margin: 5px 8px;
     color: #231F20;
@@ -65,7 +65,7 @@ a i:hover {
 }
 
 /* skill-stacks-tools */
-#tech-stacks-tools {
+#skill-stacks-tools {
     background-color: #EBEBEB;
  
 }
@@ -75,7 +75,7 @@ a i:hover {
     padding: 15px;
 }
 
-#tech-stacks-tools .sub-heading{
+#skill-stacks-tools .sub-heading{
     text-transform: capitalize;
     padding: 20px;
 }
@@ -123,18 +123,4 @@ a i:hover {
     margin: 5px 8px;
     color: #231F20;
     transition:1s;
-}
-
-.home img{
-    width: 5%;
-    transition:1s;
-    position: absolute;
-    right: 25px;
-    top: 30rem;
-    position: fixed;
-}
-
-.home img:hover {
-    transition:0.6s;
-    transform: translateY(-10px);    
 }

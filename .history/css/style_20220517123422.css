@@ -127,14 +127,13 @@ a i:hover {
 
 .home img{
     width: 5%;
+    margin: 5px 8px;
+    color: #231F20;
     transition:1s;
-    position: absolute;
-    right: 25px;
-    top: 30rem;
-    position: fixed;
 }
 
 .home img:hover {
     transition:0.6s;
-    transform: translateY(-10px);    
+    transform: translateY(-10px);
+    border: #494F56 solid 1px;
 }
