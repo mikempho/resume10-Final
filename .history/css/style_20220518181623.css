@@ -199,12 +199,8 @@ a i:hover {
 
     /* header */
     #my-nav {
+        display: flex;
         justify-content: space-around;
         width: 100%;
-        background-color: #EBEBEB;
-    }
-
-    .navbar {
-        padding: 0px 70px;
     }
 }

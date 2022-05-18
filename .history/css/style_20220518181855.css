@@ -201,10 +201,9 @@ a i:hover {
     #my-nav {
         justify-content: space-around;
         width: 100%;
-        background-color: #EBEBEB;
     }
 
     .navbar {
-        padding: 0px 70px;
+        padding: 0px 70px 0px 70px;
     }
 }

@@ -198,13 +198,7 @@ a i:hover {
     }
 
     /* header */
-    #my-nav {
+    .navbar-expand-lg .navbar-nav .nav-link {
         justify-content: space-around;
-        width: 100%;
-        background-color: #EBEBEB;
-    }
-
-    .navbar {
-        padding: 0px 70px;
     }
 }

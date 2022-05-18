@@ -178,33 +178,3 @@ a i:hover {
    }
     
 }
-
-/* Laptop and desktop Responsive */
-
-@media screen and (min-width:992px){
-
-    /* font resize */
-    h1 {
-        font-size: 52px;
-    }
-    
-    h6 {
-        font-size: 19px;
-      
-    }
-    
-    p {
-        font-size: 1.4rem;
-    }
-
-    /* header */
-    #my-nav {
-        justify-content: space-around;
-        width: 100%;
-        background-color: #EBEBEB;
-    }
-
-    .navbar {
-        padding: 0px 70px;
-    }
-}

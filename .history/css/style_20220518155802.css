@@ -142,69 +142,7 @@ a i:hover {
 /* Tablet Responsive */
 @media screen and (min-width:768px) {
     /* header section*/
-    .navbar {
-        padding: 30px 50px 5px  50px;
-    }
-    .content-box {
+    body {
         text-align: left;
-    }
-
-    .hero {
-        padding: 20% 8% 5% 10%;
-    }
-
-    /* contact section */
-    .social-icons a {
-        display: block;
-        width: 10%;
-        padding-top: 10px ;
-    }
-
-    .social-icons {
-        padding-left: 60px;
-    }
-
-    .contact-info div{
-        display: inline-block;
-        margin: 0 20px;
-    }
-
-   .contact-info {
-       margin-left: 0%;
-   }
-
-   #contact-section .row {
-       align-items: center;
-   }
-    
-}
-
-/* Laptop and desktop Responsive */
-
-@media screen and (min-width:992px){
-
-    /* font resize */
-    h1 {
-        font-size: 52px;
-    }
-    
-    h6 {
-        font-size: 19px;
-      
-    }
-    
-    p {
-        font-size: 1.4rem;
-    }
-
-    /* header */
-    #my-nav {
-        justify-content: space-around;
-        width: 100%;
-        background-color: #EBEBEB;
-    }
-
-    .navbar {
-        padding: 0px 70px;
     }
 }

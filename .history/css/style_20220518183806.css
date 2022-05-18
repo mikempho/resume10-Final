@@ -204,6 +204,9 @@ a i:hover {
         background-color: #EBEBEB;
     }
 
+    .fixed-position {
+        position: fixed;
+    }
     .navbar {
         padding: 0px 70px;
     }

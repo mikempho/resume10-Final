@@ -204,6 +204,10 @@ a i:hover {
         background-color: #EBEBEB;
     }
 
+    #my-nav .container-fluid {
+        padding: 0;
+    }
+
     .navbar {
         padding: 0px 70px;
     }

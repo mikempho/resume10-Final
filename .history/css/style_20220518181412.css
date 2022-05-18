@@ -199,12 +199,7 @@ a i:hover {
 
     /* header */
     #my-nav {
-        justify-content: space-around;
-        width: 100%;
-        background-color: #EBEBEB;
-    }
-
-    .navbar {
-        padding: 0px 70px;
+        display: flex;
+        justify-content: space-between;
     }
 }

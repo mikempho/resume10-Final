@@ -200,10 +200,13 @@ a i:hover {
     /* header */
     #my-nav {
         justify-content: space-around;
-        width: 100%;
+        width: 80%;
         background-color: #EBEBEB;
     }
 
+    .fixed-position {
+        position: fixed;
+    }
     .navbar {
         padding: 0px 70px;
     }

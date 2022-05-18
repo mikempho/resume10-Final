@@ -201,7 +201,7 @@ a i:hover {
     #my-nav {
         justify-content: space-around;
         width: 100%;
-        background-color: #EBEBEB;
+        position: fixed;
     }
 
     .navbar {

@@ -21,12 +21,12 @@
 
         <!-- navbar section -->
         <nav class="navbar navbar-expand-lg">
-            <div class="container-fluid justify-content-end fixed-position">
+            <div class="container-fluid justify-content-end">
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse text-center mt-5" id="navbarSupportedContent">
-                    <ul id="my-nav" class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
                             <a class="nav-link nav-names" aria-current="page" href="#contact-section">Contact</a>
                         </li>
@@ -44,7 +44,7 @@
         <!-- hero section -->
         <div class="container-fluid hero">
             <div class="row">
-                <div class="content-box col-md-6 text-align-left">
+                <div class="content-box">
                     <h1><span>Mike</span> Matseane</h1>
                     <p>I'm an innovative web developer and video editor located in South Africa, Pretoria.</p>
                     <div class="icon-box">
@@ -58,7 +58,7 @@
                     </div>
                 </div>
                 <!-- Illustration -->
-                <div class="hero-section-img col-md-6">
+                <div class="hero-section-img">
                     <img src="./assets/img/undraw_laravel_and_vue_-59-tp.svg" alt="">
                 </div>
             </div>
@@ -111,15 +111,13 @@
         <!-- about me section -->
         <section id="about-me-section">
             <div class="container-fluid">
-                <div class="row">
-                    <div class="col-md-6">
-                        <!-- add picture element -->
-                        <img src="" alt="profile-picture">
-                    </div>
-                    <div class="col-md-6 content-box">
-                        <h1>About <span>Me</span></h1>
-                        <p>I'm a creative problem solver and aspiring software developer. I believe it is critical to continue to create and learn. I'm always on the lookout for opportunities to learn and grow at work and in my personal life, such as seminars, webinars, and workshops. I'm very enthusiastic about self-improvement and sharing what I've learned with others. I enjoy creating music, producing and editing video content in addition to coding.</p>
-                    </div>
+                <div>
+                    <!-- add picture element -->
+                    <img src="" alt="profile-picture">
+                </div>
+                <div>
+                    <h1>About <span>Me</span></h1>
+                    <p>I'm a creative problem solver and aspiring software developer. I believe it is critical to continue to create and learn. I'm always on the lookout for opportunities to learn and grow at work and in my personal life, such as seminars, webinars, and workshops. I'm very enthusiastic about self-improvement and sharing what I've learned with others. I enjoy creating music, producing and editing video content in addition to coding.</p>
                 </div>
             </div>
         </section>
@@ -127,13 +125,11 @@
         <!-- education section -->
         <section id="education-section">
             <h1><span>Education</span></h1>
-            <div class="row">
-                <div class="education-box col-sm-6">
-                    <p><span>Intro To web -</span> Nemo at vitae quos quasi adipisci laborum debitis commodi repudiandae veniam laudantium explicabo qui dolorum facilis, provident recusandae. Aspernatur, neque.</p>
-                </div>
-                <div class="education-box col-sm-6">
-                    <p><span>Intro To web - </span>Obcaecati ut ea assumenda sunt amet. Sapiente atque maxime soluta? Nemo at vitae quos quasi adipisci laborum debitis commodi repudiandae veniam laudantium explicabo qui dolorum facilis, provident recusandae. Aspernatur, neque.</p>
-                </div>
+            <div class="education-box">
+                <p><span>Intro To web -</span> Nemo at vitae quos quasi adipisci laborum debitis commodi repudiandae veniam laudantium explicabo qui dolorum facilis, provident recusandae. Aspernatur, neque.</p>
+            </div>
+            <div class="education-box">
+                <p><span>Intro To web - </span>Obcaecati ut ea assumenda sunt amet. Sapiente atque maxime soluta? Nemo at vitae quos quasi adipisci laborum debitis commodi repudiandae veniam laudantium explicabo qui dolorum facilis, provident recusandae. Aspernatur, neque.</p>
             </div>
         </section>
         
@@ -141,20 +137,20 @@
         <section id="portfolio-section">
             <div class="container-fluid">
                 <h1>Port<span>folio</span></h1>
-                <div class="row project-container">
-                    <div class="project-box col-md-3 col-lg-3">
+                <div class="project-container">
+                    <div class="project-box">
                         <h1>project</h1>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi deleniti in ipsum fugit saepe? Eligendi?</p>
                     </div>
-                    <div class="project-box col-md-3 col-lg-3">
+                    <div class="project-box">
                         <h1>project</h1>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi deleniti in ipsum fugit saepe? Eligendi?</p>
                     </div>
-                    <div class="project-box col-md-3 col-lg-3">
+                    <div class="project-box">
                         <h1>project</h4>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi deleniti in ipsum fugit saepe? Eligendi?</p>
                     </div>
-                    <div class="project-box col-md-3 col-lg-3">
+                    <div class="project-box">
                         <h1>project</h1>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi deleniti in ipsum fugit saepe? Eligendi?</p>
                     </div>
@@ -170,33 +166,27 @@
         <section id="contact-section">
             <div class="container-fluid">
                 <h1>Contact <span>Information</span></h1>
-                <div class="contact-box row">
+                <div class="contact-box">
 
                     <!-- Social icons (Links) -->
-                    <div class="social-icons col-md-2">
+                    <div class="social-icons">
                         <a href="#"><i class="fa-brands fa-instagram"></i></a>
                         <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
                         <a href="#"><i class="fa-brands fa-twitter"></i></a>
                         <a href="#"><i class="fa-brands fa-linkedin"></i></a>
                     </div>
-                    <div class="contact-info col-md-10">
+                    <div class="contact-info">
                         <!-- email -->
-                        <div class="email">
-                            <h4>Email</h4>
-                            <p>mikempho03@gmail.com</p>
-                        </div>
+                        <h4>Email</h4>
+                        <p>mikempho03@gmail.com</p>
 
                         <!-- location -->
-                        <div class="location">
-                            <h4>Location</h4>
-                            <p>South Africa, Pretoria</p>
-                        </div>
+                        <h4>Location</h4>
+                        <p>South Africa, Pretoria</p>
 
                         <!-- Phone -->
-                        <div class="phone">
-                            <h4>Phone</h4>
-                            <p>068 145 4883</p>
-                        </div>
+                        <h4>Phone</h4>
+                        <p>068 145 4883</p>
                     </div>
                 </div>
                 <h5 class="home"><a href="#header"><img src="./assets/img/arrow-up-solid.svg" alt=""></a></h5>

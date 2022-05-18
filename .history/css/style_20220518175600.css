@@ -189,22 +189,11 @@ a i:hover {
     }
     
     h6 {
-        font-size: 19px;
+        font-size: 20px;
       
     }
     
     p {
-        font-size: 1.4rem;
-    }
-
-    /* header */
-    #my-nav {
-        justify-content: space-around;
-        width: 100%;
-        background-color: #EBEBEB;
-    }
-
-    .navbar {
-        padding: 0px 70px;
+        font-size: 1rem;
     }
 }
