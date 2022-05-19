@@ -106,7 +106,7 @@ a i:hover {
     font-size: 20px;
 }
 
-.btn-github, .btn-thanks-msg{
+.btn-github .btn-thanks-msg{
     background-color: #DBDD80;
 }
 
