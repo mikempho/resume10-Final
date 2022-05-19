@@ -97,7 +97,7 @@ a i:hover {
 .project-box {
     margin:10px 5px;
     padding: 15px 10px;
-    background-color: #DBDD80;
+    background-image: url(./assets/img/laptop-img.png);
 }
 
 .project-box h1 {

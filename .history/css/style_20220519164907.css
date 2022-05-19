@@ -88,11 +88,6 @@ a i:hover {
     color: #F7F7F9;
 }
 
-#about-me-section img{
-    width: 90%;
-    padding-top: 10px;
-}
-
 /* portfolio section */
 .project-box {
     margin:10px 5px;
