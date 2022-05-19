@@ -128,11 +128,8 @@ a i:hover {
 
 /* Call to action */
 .call-to-action {
-    color: #EBEBEB;
     padding: 30px 0;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/assets/img/krishna-pandey-KNZHyTpre18-unsplash.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-image: url(/assets/img/krishna-pandey-KNZHyTpre18-unsplash.jpg);
 }
 
 /* contact-section */
